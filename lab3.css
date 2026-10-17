@@ -1,0 +1,33 @@
+body {
+  background-color: #fff3cd;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(21, 90, 0);
+}
+
+strong, em {
+    color:rgb(156, 83, 31);
+}
+
+hr {
+  border: none;
+  border-top: 2px solid black;
+}
+
+ol, ul {
+  padding-left: 20px;
+  color: rgb(60, 60, 60);
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.copyright {
+  font-style: italic;
+  font-size: small;
+}
